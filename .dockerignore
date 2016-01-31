@@ -1,0 +1,7 @@
+.git
+*~
+circle.yml
+LICENSE
+readme.md
+history.md
+Makefile
